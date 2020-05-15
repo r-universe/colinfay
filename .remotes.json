@@ -16,5 +16,11 @@
     "url": "https://github.com/rlesur/crrri",
     "via": ["crrry"],
     "from": "crrry"
+  },
+  {
+    "package": "subprocess",
+    "url": "https://github.com/lbartnik/subprocess",
+    "via": ["bubble"],
+    "from": "bubble"
   }
 ]
