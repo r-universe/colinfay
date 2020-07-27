@@ -1,5 +1,11 @@
 [
   {
+    "package": "cicerone",
+    "url": "https://github.com/JohnCoene/cicerone",
+    "via": ["hexmake"],
+    "from": "hexmake"
+  },
+  {
     "package": "cordes",
     "url": "https://github.com/colinfay/cordes",
     "via": ["noon"],

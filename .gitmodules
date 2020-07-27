@@ -163,6 +163,11 @@
 	url = https://github.com/colinfay/wtfismyip
 	shallow = true
 	registered = true
+[submodule "cicerone"]
+	path = cicerone
+	url = https://github.com/JohnCoene/cicerone
+	shallow = true
+	registered = false
 [submodule "cordes"]
 	path = cordes
 	url = https://github.com/colinfay/cordes
