@@ -1,5 +1,11 @@
 [
   {
+    "package": "cordes",
+    "url": "https://github.com/colinfay/cordes",
+    "via": ["noon"],
+    "from": "noon"
+  },
+  {
     "package": "crrri",
     "url": "https://github.com/rlesur/crrri",
     "via": ["crrry"],
