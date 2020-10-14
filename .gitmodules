@@ -163,3 +163,8 @@
 	url = https://github.com/colinfay/wtfismyip
 	shallow = true
 	registered = true
+[submodule "crrri"]
+	path = crrri
+	url = https://github.com/rlesur/crrri
+	shallow = true
+	registered = false
