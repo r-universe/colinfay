@@ -3,3 +3,19 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "attempt"]
+	path = attempt
+	url = https://github.com/colinfay/attempt
+	shallow = true
+[submodule "dockerfiler"]
+	path = dockerfiler
+	url = https://github.com/colinfay/dockerfiler
+	shallow = true
+[submodule "languagelayeR"]
+	path = languagelayeR
+	url = https://github.com/colinfay/languagelayer
+	shallow = true
+[submodule "proustr"]
+	path = proustr
+	url = https://github.com/colinfay/proustr
+	shallow = true
