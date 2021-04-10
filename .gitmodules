@@ -7,15 +7,19 @@
 	path = attempt
 	url = https://github.com/colinfay/attempt
 	shallow = true
+	registered = true
 [submodule "dockerfiler"]
 	path = dockerfiler
 	url = https://github.com/colinfay/dockerfiler
 	shallow = true
+	registered = true
 [submodule "languagelayeR"]
 	path = languagelayeR
 	url = https://github.com/colinfay/languagelayer
 	shallow = true
+	registered = true
 [submodule "proustr"]
 	path = proustr
 	url = https://github.com/colinfay/proustr
 	shallow = true
+	registered = true
