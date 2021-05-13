@@ -1,0 +1,18 @@
+[
+  {
+    "package": "attempt",
+    "oncran": true
+  },
+  {
+    "package": "dockerfiler",
+    "oncran": true
+  },
+  {
+    "package": "languagelayeR",
+    "oncran": true
+  },
+  {
+    "package": "proustr",
+    "oncran": true
+  }
+]
