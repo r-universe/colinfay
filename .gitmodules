@@ -68,29 +68,9 @@
 	url = https://github.com/colinfay/brochure
 	shallow = true
 	registered = true
-[submodule "crrry"]
-	path = crrry
-	url = https://github.com/colinfay/crrry
-	shallow = true
-	registered = true
-[submodule "noon"]
-	path = noon
-	url = https://github.com/colinfay/noon
-	shallow = true
-	registered = true
-[submodule "hexmake"]
-	path = hexmake
-	url = https://github.com/colinfay/hexmake
-	shallow = true
-	registered = true
 [submodule "dockerstats"]
 	path = dockerstats
 	url = https://github.com/colinfay/dockerstats
-	shallow = true
-	registered = true
-[submodule "bubble"]
-	path = bubble
-	url = https://github.com/colinfay/bubble
 	shallow = true
 	registered = true
 [submodule "attempt"]
