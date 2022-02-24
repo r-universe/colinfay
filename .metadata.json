@@ -32,7 +32,7 @@
   },
   {
     "package": "dockerfiler",
-    "oncran": true
+    "oncran": false
   },
   {
     "package": "glouton"
