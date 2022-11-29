@@ -178,6 +178,11 @@
 	url = https://github.com/rlesur/crrri
 	shallow = true
 	registered = false
+[submodule "lubridate"]
+	path = lubridate
+	url = https://github.com/tidyverse/lubridate
+	shallow = true
+	registered = false
 [submodule "subprocess"]
 	path = subprocess
 	url = https://github.com/lbartnik/subprocess

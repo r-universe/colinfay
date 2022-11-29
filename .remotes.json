@@ -18,6 +18,12 @@
     "from": "crrry"
   },
   {
+    "package": "lubridate",
+    "url": "https://github.com/tidyverse/lubridate",
+    "via": ["riem"],
+    "from": "riem"
+  },
+  {
     "package": "subprocess",
     "url": "https://github.com/lbartnik/subprocess",
     "via": ["bubble"],
