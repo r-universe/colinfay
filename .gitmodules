@@ -2,102 +2,18 @@
 	path = .registry
 	url = https://github.com/colinfay/universe
 	branch = HEAD
-[submodule "golem"]
-	path = golem
-	url = https://github.com/thinkr-open/golem
-[submodule "bank"]
-	path = bank
-	url = https://github.com/thinkr-open/bank
-[submodule "testdown"]
-	path = testdown
-	url = https://github.com/thinkr-open/testdown
-[submodule "remedy"]
-	path = remedy
-	url = https://github.com/thinkr-open/remedy
-[submodule "shinipsum"]
-	path = shinipsum
-	url = https://github.com/thinkr-open/shinipsum
-[submodule "w3css"]
-	path = w3css
-	url = https://github.com/thinkr-open/w3css
-[submodule "fakir"]
-	path = fakir
-	url = https://github.com/thinkr-open/fakir
-[submodule "riem"]
-	path = riem
-	url = https://github.com/ropensci/riem
-[submodule "minifyr"]
-	path = minifyr
-	url = https://github.com/colinfay/minifyr
-[submodule "dockerfiler"]
-	path = dockerfiler
-	url = https://github.com/colinfay/dockerfiler
-[submodule "glouton"]
-	path = glouton
-	url = https://github.com/colinfay/glouton
-[submodule "gargoyle"]
-	path = gargoyle
-	url = https://github.com/colinfay/gargoyle
-[submodule "brochure"]
-	path = brochure
-	url = https://github.com/colinfay/brochure
-[submodule "crrry"]
-	path = crrry
-	url = https://github.com/colinfay/crrry
-[submodule "noon"]
-	path = noon
-	url = https://github.com/colinfay/noon
-[submodule "hexmake"]
-	path = hexmake
-	url = https://github.com/colinfay/hexmake
-[submodule "dockerstats"]
-	path = dockerstats
-	url = https://github.com/colinfay/dockerstats
-[submodule "bubble"]
-	path = bubble
-	url = https://github.com/colinfay/bubble
 [submodule "attempt"]
 	path = attempt
 	url = https://github.com/colinfay/attempt
-[submodule "darkmode"]
-	path = darkmode
-	url = https://github.com/colinfay/darkmode
-[submodule "geoloc"]
-	path = geoloc
-	url = https://github.com/colinfay/geoloc
-[submodule "resume"]
-	path = resume
-	url = https://github.com/colinfay/resume
-[submodule "nessy"]
-	path = nessy
-	url = https://github.com/colinfay/nessy
-[submodule "rnotify"]
-	path = rnotify
-	url = https://github.com/colinfay/rnotify
-[submodule "tidystringdist"]
-	path = tidystringdist
-	url = https://github.com/colinfay/tidystringdist
-[submodule "proustr"]
-	path = proustr
-	url = https://github.com/colinfay/proustr
-[submodule "feathericons"]
-	path = feathericons
-	url = https://github.com/colinfay/feathericons
-[submodule "craneur"]
-	path = craneur
-	url = https://github.com/colinfay/craneur
-[submodule "skeleton"]
-	path = skeleton
-	url = https://github.com/colinfay/skeleton
-[submodule "handydandy"]
-	path = handydandy
-	url = https://github.com/colinfay/handydandy
-[submodule "fryingpane"]
-	path = fryingpane
-	url = https://github.com/colinfay/fryingpane
-[submodule "wtfismyip"]
-	path = wtfismyip
-	url = https://github.com/colinfay/wtfismyip
+[submodule "bank"]
+	path = bank
+	url = https://github.com/thinkr-open/bank
+[submodule "brochure"]
+	path = brochure
+	url = https://github.com/colinfay/brochure
+[submodule "bubble"]
+	path = bubble
+	url = https://github.com/colinfay/bubble
 [submodule "cicerone"]
 	path = cicerone
 	url = https://github.com/JohnCoene/cicerone
@@ -106,15 +22,99 @@
 	path = cordes
 	url = https://github.com/colinfay/cordes
 	registered = false
+[submodule "craneur"]
+	path = craneur
+	url = https://github.com/colinfay/craneur
 [submodule "crrri"]
 	path = crrri
 	url = https://github.com/rlesur/crrri
 	registered = false
+[submodule "crrry"]
+	path = crrry
+	url = https://github.com/colinfay/crrry
+[submodule "darkmode"]
+	path = darkmode
+	url = https://github.com/colinfay/darkmode
+[submodule "dockerfiler"]
+	path = dockerfiler
+	url = https://github.com/colinfay/dockerfiler
+[submodule "dockerstats"]
+	path = dockerstats
+	url = https://github.com/colinfay/dockerstats
+[submodule "fakir"]
+	path = fakir
+	url = https://github.com/thinkr-open/fakir
+[submodule "feathericons"]
+	path = feathericons
+	url = https://github.com/colinfay/feathericons
+[submodule "fryingpane"]
+	path = fryingpane
+	url = https://github.com/colinfay/fryingpane
+[submodule "gargoyle"]
+	path = gargoyle
+	url = https://github.com/colinfay/gargoyle
+[submodule "geoloc"]
+	path = geoloc
+	url = https://github.com/colinfay/geoloc
+[submodule "glouton"]
+	path = glouton
+	url = https://github.com/colinfay/glouton
+[submodule "golem"]
+	path = golem
+	url = https://github.com/thinkr-open/golem
+[submodule "handydandy"]
+	path = handydandy
+	url = https://github.com/colinfay/handydandy
+[submodule "hexmake"]
+	path = hexmake
+	url = https://github.com/colinfay/hexmake
 [submodule "lubridate"]
 	path = lubridate
 	url = https://github.com/tidyverse/lubridate
 	registered = false
+[submodule "minifyr"]
+	path = minifyr
+	url = https://github.com/colinfay/minifyr
+[submodule "nessy"]
+	path = nessy
+	url = https://github.com/colinfay/nessy
+[submodule "noon"]
+	path = noon
+	url = https://github.com/colinfay/noon
+[submodule "proustr"]
+	path = proustr
+	url = https://github.com/colinfay/proustr
+[submodule "remedy"]
+	path = remedy
+	url = https://github.com/thinkr-open/remedy
+[submodule "resume"]
+	path = resume
+	url = https://github.com/colinfay/resume
+[submodule "riem"]
+	path = riem
+	url = https://github.com/ropensci/riem
+[submodule "rnotify"]
+	path = rnotify
+	url = https://github.com/colinfay/rnotify
+[submodule "shinipsum"]
+	path = shinipsum
+	url = https://github.com/thinkr-open/shinipsum
+[submodule "skeleton"]
+	path = skeleton
+	url = https://github.com/colinfay/skeleton
 [submodule "subprocess"]
 	path = subprocess
 	url = https://github.com/lbartnik/subprocess
 	registered = false
+[submodule "testdown"]
+	path = testdown
+	url = https://github.com/thinkr-open/testdown
+[submodule "tidystringdist"]
+	path = tidystringdist
+	url = https://github.com/colinfay/tidystringdist
+[submodule "w3css"]
+	path = w3css
+	url = https://github.com/thinkr-open/w3css
+[submodule "wtfismyip"]
+	path = wtfismyip
+	url = https://github.com/colinfay/wtfismyip
