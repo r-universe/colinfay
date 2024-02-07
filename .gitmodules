@@ -5,38 +5,18 @@
 [submodule "attempt"]
 	path = attempt
 	url = https://github.com/colinfay/attempt
-[submodule "cicerone"]
-	path = cicerone
-	url = https://github.com/JohnCoene/cicerone
-	registered = false
-[submodule "cordes"]
-	path = cordes
-	url = https://github.com/colinfay/cordes
-	registered = false
-[submodule "crrri"]
-	path = crrri
-	url = https://github.com/rlesur/crrri
-	registered = false
 [submodule "gargoyle"]
 	path = gargoyle
 	url = https://github.com/colinfay/gargoyle
 [submodule "languagelayeR"]
 	path = languagelayeR
 	url = https://github.com/colinfay/languagelayer
-[submodule "lubridate"]
-	path = lubridate
-	url = https://github.com/tidyverse/lubridate
-	registered = false
 [submodule "proustr"]
 	path = proustr
 	url = https://github.com/colinfay/proustr
 [submodule "rpinterest"]
 	path = rpinterest
 	url = https://github.com/colinfay/rpinterest
-[submodule "subprocess"]
-	path = subprocess
-	url = https://github.com/lbartnik/subprocess
-	registered = false
 [submodule "tidystringdist"]
 	path = tidystringdist
 	url = https://github.com/colinfay/tidystringdist
