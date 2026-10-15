@@ -5,6 +5,9 @@
 [submodule "attempt"]
 	path = attempt
 	url = https://github.com/colinfay/attempt
+[submodule "brochure"]
+	path = brochure
+	url = https://github.com/colinfay/brochure
 [submodule "gargoyle"]
 	path = gargoyle
 	url = https://github.com/colinfay/gargoyle
